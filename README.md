@@ -2,7 +2,7 @@
 	The project is to find the fraudulent transactions happen in e commerce website. This will help the business not to run into losses.
 	The data is collected and stored in JSON profiles representing fictional customers from an e-commerce company. The profiles contain information about the customer, their orders, their transactions, what payment methods they used and whether the customer is fraudulent or not.
 
-	Probelm statement:
+	Probelm statement: 
 		Parse the json data to columns and rows.
 		Model building target variable(Fradulent)
 		Report on model success and important features.
