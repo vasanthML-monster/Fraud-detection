@@ -8,6 +8,7 @@
 		Report on model success and important features.
  
 # Data Processing
+		Refer customerdata.json for raw data of customers
 		Refer Preprocessing.ipnyb for detailed steps of preprocessing.
 		Refer customersdata.json for raw json data.
 		Json data is imported using pandas package.
